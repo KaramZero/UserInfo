@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_output_screen">User Output Screen</string>
+
+    <string name="user_name">اسم المستخدم</string>
+    <string name="age">العمر</string>
+    <string name="job_title">المسمى الوظيفي</string>
+    <string name="gender">الجنس</string>
+    <string name="back">رجوع</string>
+    <string name="male">ذكر</string>
+    <string name="female">أنثى</string>
+
+</resources>

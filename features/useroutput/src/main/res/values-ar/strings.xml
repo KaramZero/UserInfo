@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UserInput</string>
+
+    <string name="female">أنثى</string>
+    <string name="male">ذكر</string>
+    <string name="select_your_gender">اختر جنسك</string>
+    <string name="user_name">اسم المستخدم</string>
+    <string name="age">العمر</string>
+    <string name="job_title">المسمى الوظيفي</string>
+    <string name="gender">الجنس</string>
+    <string name="next">التالي</string>
+    <string name="back">رجوع</string>
+    <string name="user_output_screen">شاشة مخرجات المستخدم</string>
+</resources>

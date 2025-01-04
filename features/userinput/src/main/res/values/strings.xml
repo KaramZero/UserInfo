@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UserInput</string>
+
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="select_your_gender">Select Your Gender</string>
+    <string name="user_name">User Name</string>
+    <string name="age">Age</string>
+    <string name="job_title">Job Title</string>
+    <string name="gender">Gender</string>
+    <string name="next">Next</string>
+    <string name="your_request_can_not_be_completed">Your request can not be completed</string>
+    <string name="user_input_screen">User Input Screen</string>
+    <string name="enter_all_fields">Enter all fields</string>
+</resources>

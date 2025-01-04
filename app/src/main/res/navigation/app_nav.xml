@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/app_nav"
+    app:startDestination="@id/userInputFragment">
+
+    <fragment
+        android:id="@+id/userInputFragment"
+        android:name="com.madarsoft.userinput.UserInputFragment"
+        android:label="UserInputFragment" >
+        <action
+            android:id="@+id/action_userInputFragment_to_userOutputFragment"
+            app:destination="@id/userOutputFragment"
+            app:enterAnim="@anim/fade_in"
+            app:exitAnim="@anim/fade_out"
+            app:popEnterAnim="@anim/fade_in"
+            app:popExitAnim="@anim/fade_out" />
+    </fragment>
+    <fragment
+        android:id="@+id/userOutputFragment"
+        android:name="com.madarsoft.useroutput.UserOutputFragment"
+        android:label="UserOutputFragment" />
+</navigation>
